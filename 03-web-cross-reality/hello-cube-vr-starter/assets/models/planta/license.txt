@@ -1,0 +1,8 @@
+Model Information:
+* title:	planta
+* source:	https://sketchfab.com/3d-models/planta-941623748e2b4e37bab12ab9660208f6
+* author:	yuri.tomas (https://sketchfab.com/yuri.tomas)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

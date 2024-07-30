@@ -1,0 +1,8 @@
+Model Information:
+* title:	KidsChair
+* source:	https://sketchfab.com/3d-models/kidschair-646e6fb64cb7447988656e625387361d
+* author:	hansithal (https://sketchfab.com/hansithal)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
